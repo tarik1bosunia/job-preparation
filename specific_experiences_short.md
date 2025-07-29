@@ -40,3 +40,20 @@ Used Redis for caching, real-time features, and as a Celery message broker
 
 Handled database migrations using Django Migrations and managed environment-specific configurations
 ```
+
+# Frontend Skills:
+```plaintext
+Developed responsive UIs using HTML5, CSS3, Tailwind CSS, and Bootstrap
+
+Proficient in JavaScript (ES6+) and TypeScript for dynamic and type-safe frontend logic
+
+Built modern web apps using Next.js with React, including SSR and SSG features
+
+Managed complex state and API calls using Redux Toolkit and RTK Query
+
+Created accessible, multi-language (Bangla & English) UIs with support for dark/light mode
+
+Designed intuitive interfaces and wireframes using Figma, and implemented pixel-perfect layouts
+
+Integrated secure frontend authentication with JWT and Google OAuth 2.0
+```
