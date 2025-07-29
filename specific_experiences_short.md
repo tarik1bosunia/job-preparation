@@ -25,3 +25,18 @@ Used GitHub Actions for basic CI/CD pipelines and workflow automation
 
 Collaborated effectively using GitHub in Agile environments with proper commit conventions and changelog practices
 ```
+
+# Database Experience:
+```plaintext
+Experienced with PostgreSQL, MySQL, and MongoDB for designing and managing relational and NoSQL databases
+
+Designed efficient database schemas with proper normalization and indexing for performance
+
+Integrated databases with Django ORM for CRUD operations, filtering, pagination, and relationship handling
+
+Wrote custom SQL queries and optimized complex queries for large datasets
+
+Used Redis for caching, real-time features, and as a Celery message broker
+
+Handled database migrations using Django Migrations and managed environment-specific configurations
+```
